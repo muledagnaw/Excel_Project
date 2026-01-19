@@ -29,14 +29,6 @@
   * Product performance analysis
   * Sales volume classification
 
----
-
-## 📈 Key Findings
-
-### 🌍 Market Presence
-
-* **Germany** has customers primarily for the *Mountain-200 Black, 38* bike.
-* **Australia and the United Kingdom** are the only countries with sales across **all markets**.
 
 ### 💰 Profitability Insights
 
