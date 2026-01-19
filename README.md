@@ -50,7 +50,8 @@ This project demonstrates practical **data analysis and Excel skills** through s
 ---
 
 ## 📊 Excel Task: County-Level Sales Analysis (England)
-The Dataset that we used  ![alt text](file:///d%3A/Bootcamp/Excel/pivot%20table.png)
+The Dataset that we used <img width="1108" height="500" alt="dataset" src="https://github.com/user-attachments/assets/08b3c9e9-871e-49d9-a2a9-dd27be131f8a" />
+
 ### 🔹 Pivot Table Analysis
 
 A Pivot Table was created to summarise **Sales Volume by County and Product**, revealing:
@@ -69,7 +70,7 @@ The **SWITCH function** was used to classify sales performance:
 ```
 
 #### Results:
-![alt text](file:///d%3A/Bootcamp/Excel/pivot%20table2.png)
+<img width="815" height="442" alt="pivot table2" src="https://github.com/user-attachments/assets/f781d384-3a31-4104-aca5-ab270bfcd167" />
 
 * **High Sales**: Cornwall (Laptops), Essex (Printers)
 * **Medium Sales**: Most Laptop and Smartphone sales
@@ -81,7 +82,7 @@ This categorisation helps quickly identify **strong and weak-performing products
 
 ## 📊 Data Visualisation (Bike Sales Lab)
 
-Using the Bike Sales dataset:
+Using the Bike Sales dataset:[Bike_Sales_Visualizations_Lab.xlsx](https://github.com/user-attachments/files/24718857/Bike_Sales_Visualizations_Lab.xlsx)
 
 * Explored different **chart types** to visualise sales trends
 * Practised transforming raw data into **meaningful visuals**
@@ -96,6 +97,10 @@ Using the Bike Sales dataset:
 * Excel formulas for logic-based categorisation
 * Market and product performance analysis
 * Clear presentation of analytical findings
+
+<img width="691" height="416" alt="image" src="https://github.com/user-attachments/assets/954b2e84-a2ae-4cbe-8050-0d36b8dcd895" /> <img width="691" height="403" alt="image" src="https://github.com/user-attachments/assets/947cc713-32ec-400c-b59c-7a6c0b3471df" /> <img width="691" height="416" alt="image" src="https://github.com/user-attachments/assets/f687a391-a6cb-40bb-a8c3-743da23a012d" />
+
+
 
 ---
 
