@@ -102,16 +102,5 @@ Using the Bike Sales dataset:[Bike_Sales_Visualizations_Lab.xlsx](https://github
 
 
 
----
 
-## 🚀 Outcome
-
-This project strengthened my ability to:
-
-* Analyse sales data using Excel
-* Extract business-relevant insights
-* Present findings clearly for decision-making
-* Apply structured analytical thinking to real datasets
-
----
 
