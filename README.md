@@ -1,9 +1,6 @@
 
-## 📊 Project Summary: Sales Analysis & Excel Data Techniques
+## 📊 Sales Analysis using Excel Data Techniques
 
-## 🔍 Project Overview
-* This project demonstrates practical **data analysis and Excel skills** through sales data exploration, pivot table analysis, and formula-based categorisation. The work focuses on identifying **market presence, profitability trends, and sales performance** across regions, products, and customer segments. 
----
 
 ## 🎯 Objectives
 
