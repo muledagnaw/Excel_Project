@@ -47,6 +47,7 @@ This categorisation helps quickly identify **strong and weak-performing products
 <img width="751" height="452" alt="image" src="https://github.com/user-attachments/assets/1255c569-460f-471d-b4c9-5631dab283aa" />
 
 
+---
 📌 Summary
 This project showcases practical Excel skills—including data analysis, summarisation, and visualisation—developed during the Data Technician Bootcamp and aligned with entry‑level data role expectations.
 
