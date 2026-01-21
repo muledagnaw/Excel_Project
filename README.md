@@ -1,5 +1,5 @@
 
-## 📊 Sales Analysis using Excel Data Techniques
+## 📊 Analysis using Excel Data Techniques
 ---
 
 ## 🛠️ Tools & Techniques
