@@ -42,25 +42,10 @@ This categorisation helps quickly identify **strong and weak-performing products
 
 ---
 
-## 📊 Data Visualisation (Bike Sales Lab)
+## 📊 Data Visualisation using chart
 
-Using the Bike Sales dataset:[Bike_Sales_Visualizations_Lab.xlsx](https://github.com/user-attachments/files/24718857/Bike_Sales_Visualizations_Lab.xlsx)
+<img width="751" height="452" alt="image" src="https://github.com/user-attachments/assets/1255c569-460f-471d-b4c9-5631dab283aa" />
 
-* Explored different **chart types** to visualise sales trends
-* Practised transforming raw data into **meaningful visuals**
-* Improved understanding of **data storytelling through charts**
-
----
-
-## ✅ Skills Demonstrated
-
-* Data cleaning and organisation
-* Pivot Table creation and interpretation
-* Excel formulas for logic-based categorisation
-* Market and product performance analysis
-* Clear presentation of analytical findings
-
-<img width="691" height="416" alt="image" src="https://github.com/user-attachments/assets/954b2e84-a2ae-4cbe-8050-0d36b8dcd895" /> <img width="691" height="403" alt="image" src="https://github.com/user-attachments/assets/947cc713-32ec-400c-b59c-7a6c0b3471df" /> <img width="691" height="416" alt="image" src="https://github.com/user-attachments/assets/f687a391-a6cb-40bb-a8c3-743da23a012d" />
 
 
 
