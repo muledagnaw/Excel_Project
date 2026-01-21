@@ -1,15 +1,5 @@
 
 ## 📊 Sales Analysis using Excel Data Techniques
-
-
-## 🎯 Objectives
-
-* Identify **customer markets by country**
-* Determine **products with the highest customer demand**
-* Analyse **profitability by market, age group, and gender**
-* Summarise sales performance by **county and product**
-* Categorise sales volume using **Excel formulas (SWITCH)**
-
 ---
 
 ## 🛠️ Tools & Techniques
