@@ -21,6 +21,7 @@
 ---
 
 ## 📊 Excel Task: County-Level Sales Analysis (England)
+Consider the following Excel sheet to analyse
  <img width="1108" height="500" alt="dataset" src="https://github.com/user-attachments/assets/08b3c9e9-871e-49d9-a2a9-dd27be131f8a" />
 
 ### 🔹 Pivot Table Analysis
