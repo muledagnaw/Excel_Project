@@ -28,11 +28,9 @@ Consider the following Excel sheet to analyse
 
 Sales data was filtered and sorted by county, product, and category, and a PivotTable was generated to compare sales volumes across regions.
 
-
-
-#### Key findings from the PivotTable include:
 <img width="815" height="442" alt="pivot table2" src="https://github.com/user-attachments/assets/f781d384-3a31-4104-aca5-ab270bfcd167" />
 
+### Key findings from the PivotTable include:
 * **Cornwall** and **Essex** as top-performing counties
 * **Laptops** as the highest-selling product overall
 * Total sales volume of **5,200 units** across all counties
