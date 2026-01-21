@@ -26,24 +26,16 @@ Consider the following Excel sheet to analyse
 
 ### 🔹 Pivot Table Analysis
 
-A Pivot Table was created to summarise **Sales Volume by County and Product**, revealing:
+Sales data was filtered and sorted by county, product, and category, and a PivotTable was generated to compare sales volumes across regions.
 
+
+
+#### Key findings from the PivotTable include:
+<img width="815" height="442" alt="pivot table2" src="https://github.com/user-attachments/assets/f781d384-3a31-4104-aca5-ab270bfcd167" />
 
 * **Cornwall** and **Essex** as top-performing counties
 * **Laptops** as the highest-selling product overall
 * Total sales volume of **5,200 units** across all counties
-
-### 🔹 Sales Volume Categorisation
-
-The **SWITCH function** was used to classify sales performance:
-
-```excel
-=SWITCH(TRUE, C2 > 600, "High", C2 >= 300, "Medium", "Low")
-```
-
-#### Results:
-<img width="815" height="442" alt="pivot table2" src="https://github.com/user-attachments/assets/f781d384-3a31-4104-aca5-ab270bfcd167" />
-
 * **High Sales**: Cornwall (Laptops), Essex (Printers)
 * **Medium Sales**: Most Laptop and Smartphone sales
 * **Low Sales**: Smartphones in Yorkshire and Lancashire, Laptops in Durham
