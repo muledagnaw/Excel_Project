@@ -98,7 +98,7 @@ This categorisation helps quickly identify **strong and weak-performing products
 
 ---
 📌 Summary
-This project showcases practical Excel skills—including data analysis, summarisation, and visualisation—developed during the Data Technician Bootcamp and aligned with entry‑level data role expectations.
+This project showcases practical Excel skills—including data analysis, summarisation, and visualisation.
 
 
 
