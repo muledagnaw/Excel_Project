@@ -2,6 +2,55 @@
 ## 📊 Analysis using Excel Data Techniques
 ---
 
+
+# 🚴 Project 1– Bike Sales Pivot Lab
+
+**Dataset:** [Bike_Sales_Visualizations.xlsx](https://github.com/user-attachments/files/24870094/Bike_Sales_Visualizations.xlsx)
+
+---
+
+## 📝 Task Overview
+
+The goal of this task is to explore the bike sales dataset using **Pivot Tables** in Excel.
+
+---
+
+## 📊 Pivot Table
+<img width="833" height="556" alt="image" src="https://github.com/user-attachments/assets/45d5d960-df44-4a4b-a055-a87bbce8bc32" />
+<img width="772" height="532" alt="image" src="https://github.com/user-attachments/assets/645ce6ae-29e1-4c26-bd30-22a50debb062" />
+<img width="773" height="551" alt="image" src="https://github.com/user-attachments/assets/dfe22416-8c55-46e5-8dbc-43fa506e1b09" />
+
+
+---
+
+## 🔍 Reflection Questions
+
+**1️⃣ In which markets does Germany have customers?**
+
+* Mountain-200 Black 38 bike has more customers in Germany.
+
+**2️⃣ What country has sales in all markets?**
+
+* Australia and United Kingdom
+
+**3️⃣ What are the most profitable markets by country, age group, and gender?**
+
+* Mountain-100 Black, 38 is the most profitable
+
+
+
+---
+
+## 💡 Key Takeaways
+
+* Pivot tables make it easy to **summarize and analyze large datasets**.
+* They help identify **trends by market, product, country, and customer demographics**.
+* Playing with data improves **analytical thinking and Excel skills**.
+
+---
+
+
+
 ## 🛠️ Tools & Techniques
 
 * **Microsoft Excel**
