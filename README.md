@@ -48,7 +48,8 @@ This categorisation helps quickly identify **strong and weak-performing products
 
 ## 📊 Data Visualisation using chart
 
-<img width="751" height="452" alt="image" src="https://github.com/user-attachments/assets/1255c569-460f-471d-b4c9-5631dab283aa" />
+<img width="818" height="423" alt="image" src="https://github.com/user-attachments/assets/9fa1d02a-ccc6-4acc-afb5-e3d1cb9b4e4e" />
+
 
 
 ---
