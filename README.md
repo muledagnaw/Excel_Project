@@ -33,6 +33,17 @@ Sales data was filtered and sorted by county, product, and category, and a Pivot
 
 <img width="653" height="267" alt="image" src="https://github.com/user-attachments/assets/b123957a-a640-4460-bdef-4f4b186b9318" />
 
+This worksheet uses the SWITCH function in Excel to categorise products based on their Sales Volume.
+
+### Sales Volume Categories
+
+Products are classified according to the following rules:
+
+* High – Sales greater than 600
+
+* Medium – Sales between 300 and 600
+* Low – Sales less than 300
+<img width="602" height="397" alt="image" src="https://github.com/user-attachments/assets/dc6780b4-92e0-4f16-9330-b153cd188233" />
 
 ### Key findings from the PivotTable include:
 * **Cornwall** and **Essex** as top-performing counties
