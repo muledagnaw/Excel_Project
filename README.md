@@ -21,9 +21,6 @@ This repositary focus on working with datasets in Excel, creating Pivot Tables, 
   * Market comparison
   * Product performance analysis
   * Sales volume classification
-
-
-
 ---
 
 ## 📊 Excel Task: County-Level Sales Analysis (England)
@@ -34,7 +31,8 @@ Consider the following Excel sheet to analyse
 
 Sales data was filtered and sorted by county, product, and category, and a PivotTable was generated to compare sales volumes across regions.
 
-<img width="815" height="442" alt="pivot table2" src="https://github.com/user-attachments/assets/f781d384-3a31-4104-aca5-ab270bfcd167" />
+<img width="653" height="267" alt="image" src="https://github.com/user-attachments/assets/b123957a-a640-4460-bdef-4f4b186b9318" />
+
 
 ### Key findings from the PivotTable include:
 * **Cornwall** and **Essex** as top-performing counties
