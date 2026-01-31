@@ -1,13 +1,8 @@
 
 ## 📊 Analysis using Excel Data Techniques
----
+## Overview
 
-
-## 💡 Key Takeaways
-
-* Pivot tables make it easy to **summarize and analyze large datasets**.
-* They help identify **trends by market, product, country, and customer demographics**.
-* Playing with data improves **analytical thinking and Excel skills**.
+This repositary focus on working with datasets in Excel, creating Pivot Tables, applying formulas, and exploring data visualisations.
 
 ---
 
